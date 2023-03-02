@@ -13,3 +13,6 @@ there is a concern that could be a little too advanced. Here is a list of things
   * On that note, I here are the links to [Maxar](https://www.maxar.com/open-data) and [USGS EarthExplorer](https://earthexplorer.usgs.gov/)
 3. Honestly, some youtube references will be helpful, so I should try looking [here](https://www.youtube.com/watch?v=Lqirs04EccA)
 
+### Here is a picture of a Landsat Satellite!
+
+![](https://th.bing.com/th/id/R.5c9db11ac471fce82be54ea610ff284e?rik=wvlIONRr4vSGhA&riu=http%3a%2f%2fwww.nasa.gov%2fsites%2fdefault%2ffiles%2f578319main_20110809-ldcm-lrg.jpeg&ehk=i6O%2foG0i5HemaGyW1f0ppGffMspjg1nGY06qCISwGZQ%3d&risl=&pid=ImgRaw&r=0)
