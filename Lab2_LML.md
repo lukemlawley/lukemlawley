@@ -9,7 +9,7 @@ there is a concern that could be a little too advanced. Here is a list of things
 
 1. I will need to be familiar with ESRI resources on remote sensing
 2. Imagery data that is free, but also easily accessible
-..* Maxar has an awesome open data program that I could use, but otherwise, Landsat images will work fine. 
-..* On that note, I here are the links to [Maxar](https://www.maxar.com/open-data) and [USGS EarthExplorer](https://earthexplorer.usgs.gov/)
+  * Maxar has an awesome open data program that I could use, but otherwise, Landsat images will work fine. 
+  * On that note, I here are the links to [Maxar](https://www.maxar.com/open-data) and [USGS EarthExplorer](https://earthexplorer.usgs.gov/)
 3. Honestly, some youtube references will be helpful, so I should try looking [here](https://www.youtube.com/watch?v=Lqirs04EccA)
 
